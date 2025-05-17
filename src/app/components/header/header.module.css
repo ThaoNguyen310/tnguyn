@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    background-color: #a02727;
+    padding: 2rem;
+    color: black;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    }
+    .logo{
+      height: 100px;
+      width: 150px;
+    }
+    .nav ul {
+      display: flex;
+      gap: 1rem;
+       list-style: none;
+    }
+    .li  {
+      margin-left: 20px;
+      text-decoration: none; 
+      color: #ffffff;
+      font-size: 16px;
+    }
+    /* .li a:hover {
+      text-decoration: none; 
+      background-color: #d36666;
+      font-size: 16px;
+    }  */

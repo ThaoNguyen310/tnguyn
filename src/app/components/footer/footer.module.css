@@ -1,0 +1,28 @@
+.note{
+    background-color: #a02727;
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    margin-top: 1111;
+    color: white;
+  }
+  .footer
+  {
+    width: 1200px;
+  }
+  .f_section{
+    padding-top: 10px;
+    width: 100%;
+    height: 235px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .copyright{
+    width: 100%;
+    height: 85px;
+  }
+  .ol{
+    padding: 5px;
+  }
+  
