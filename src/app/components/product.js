@@ -28,11 +28,11 @@ export default function Product(props) {
                   product.productPrice - 
                   (product.productPrice * product.percentDiscount) / 100
                 ).toLocaleString("vi-VN")}
-              </strong>
+              Đ</strong>
               <span className={styles.discount}>
                 <label className={styles.oldPrice}>
                   {product.productPrice.toLocaleString("vi-VN")}
-                </label>
+                Đ</label>
                 <small className={styles.percent}>
                   -{product.percentDiscount}%
                 </small>
